@@ -20,7 +20,7 @@ const HeroSection = () => {
             </p>
 
             <Link 
-            href="https://drive.google.com/file/d/1Mf4KLIcdEXBJnuT--tA-9qU-hrFG7VI8/view?usp=drive_link" 
+            href="https://drive.google.com/file/d/1ndoFx5MHNwaR0VNqDPpBjL0sHzo4rFJV/view?usp=sharing" 
             target="_blank" 
             rel="noopener noreferrer" 
             className='inline-block group'
